@@ -1,0 +1,21 @@
+id,name,age,salary,department,join_date,performance_score,education
+1,John Smith,32,65000,Marketing,2019-05-15,4.2,Bachelor
+2,Emily Johnson,28,72000,Finance,2020-01-10,4.5,Master
+3,Michael Brown,41,95000,IT,2015-11-23,4.8,PhD
+4,Sarah Davis,,58000,HR,2021-03-05,3.9,Bachelor
+5,Robert Wilson,36,78000,Marketing,2018-07-19,4.1,Master
+6,Jennifer Lee,29,67000,Finance,2019-09-30,,Bachelor
+7,David Martinez,45,110000,IT,2012-04-12,4.9,PhD
+8,Lisa Thompson,33,71000,HR,2017-08-22,4.3,Master
+9,James Anderson,39,88000,Marketing,2016-02-15,4.6,Master
+10,Patricia Garcia,27,59000,Finance,2022-01-07,3.8,Bachelor
+11,Thomas Rodriguez,42,,IT,2014-10-18,4.7,Master
+12,Nancy Wilson,31,69000,HR,2018-11-29,4.0,Bachelor
+13,Christopher Lee,37,82000,Marketing,2017-06-03,4.4,PhD
+14,Mary Johnson,26,56000,Finance,2021-05-14,3.7,Bachelor
+15,Daniel Brown,44,105000,IT,2013-12-09,4.8,Master
+16,Karen Davis,30,68000,HR,2019-03-25,,Bachelor
+17,Matthew Smith,38,85000,Marketing,2016-09-17,4.5,Master
+18,Elizabeth Martinez,25,54000,Finance,2022-02-28,3.6,Bachelor
+19,Joshua Thompson,43,98000,IT,2014-07-11,4.7,PhD
+20,Margaret Anderson,34,73000,HR,2017-11-05,4.2,Master 
